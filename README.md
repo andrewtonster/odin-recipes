@@ -1,2 +1,3 @@
 # odin-recipes
-creating recipe website
+
+Creating a website that contain recipes of certian foods
